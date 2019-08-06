@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d2dd038b0fc37138b5e90fe28bac5ce",
+    "revision": "9a36dfc97a2a7418aec7e0bb48c9a0e8",
     "url": "/bass-selector/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bass-selector/static/js/2.0fd8de87.chunk.js"
   },
   {
-    "revision": "f7321ce2984d947f63bb",
-    "url": "/bass-selector/static/js/main.b8e0c967.chunk.js"
+    "revision": "a1c2a34be6fac22ed214",
+    "url": "/bass-selector/static/js/main.91f4dcf5.chunk.js"
   },
   {
     "revision": "aae0f9b9e12c60df40ac",
