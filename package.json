@@ -2,7 +2,7 @@
   "name": "bass-selector",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atlc.github.io/bass-selector",
+  "homepage": "https://atlc.github.io/bass-selector/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
